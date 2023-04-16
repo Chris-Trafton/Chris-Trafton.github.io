@@ -1,0 +1,153 @@
+body {
+    background-color: black;
+    color: black;
+    text-align: center;
+}
+
+header h3 {
+    text-align: left;
+}
+
+header h3 a {
+    padding: 1em;
+    color: white;
+    font-size: 100%;
+}
+
+body a {
+    color: white;
+    margin: auto;
+    font-size: 2em;
+}
+
+footer a {
+    padding: 2em;
+    color: white;
+    font-size: 1em;
+}
+  
+.grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    
+}
+  
+header {
+    grid-column-start: 1;
+    grid-column-end: 7;
+    display: grid;
+    background-color: rgb(106, 5, 5);
+}
+  
+.banner {
+    padding: 10%;
+    background-color: rgb(106, 5, 5);
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 4em;
+    font-weight: 300;
+    letter-spacing: 3.7px;
+    grid-column-start: 1;
+    grid-column-end: 7;
+    margin: 1em;
+    height: 2em;
+}
+  
+p, .banner-contents {
+    max-width: 100%;
+    margin: auto;
+}
+  
+img {
+    height: 30em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    border-radius: 0.5em;
+}
+
+@media (max-width: 1919px) {
+    img {
+        height: 20em;
+    }
+}
+
+.double img {
+    margin: auto;
+}
+
+.trio {
+    background-color: #2f2f2f;
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    text-align: center;
+    display: grid;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+  
+.tone {
+    grid-column: 1 / span 2;
+    border-top-left-radius: 2em;
+    border-bottom-left-radius: 2em;
+}
+  
+.ttwo {
+    grid-column: 3 / span 2;
+}
+  
+.tthree {
+    grid-column: 5 / span 2;
+    border-top-right-radius: 2em;
+    border-bottom-right-radius: 2em;
+}
+
+.trio p {
+    padding: 1em;
+}
+  
+.double {
+    background-color: #2f2f2f;
+    color: white;
+    font-family: Poppins;
+    font-size: 18px;
+    text-align: left;
+    letter-spacing: 2px;
+    display: grid;
+    padding: 3em;
+    margin: 3em;
+    border-radius: 2em;
+}
+  
+.done {
+    grid-column: 1 / span 3;
+}
+  
+.dtwo {
+    grid-column: 4 / span 3;
+}
+
+.divider {
+    background-color: black;
+    color: #ffffff;
+    grid-column-start: 1;
+    grid-column-end: 7;
+    margin: 0.5em;
+    height: 0.5em;
+}
+  
+footer {
+    background-color: rgb(106, 5, 5);
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 16px;
+    letter-spacing: 0.4px;
+    grid-column-start: 1;
+    grid-column-end: 7;
+    display: grid;
+    margin-top: 2em;
+}
