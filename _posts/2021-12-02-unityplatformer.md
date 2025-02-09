@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Unity Platformer"
+summary: "Game Deisgner and Engineer"
+date:   2021-12-02
+preview: /assets/postpreview.png
+---
+
+![Picture 1](/assets/unityplatformer.png)
+
+- Led a group of four engineering students to design, program and test a 2D platformer game
+- Worked in C# to write game rules and controls
+- Used the Unity Engine to design a level and gameplay
