@@ -2,7 +2,7 @@
 layout: post
 title:  "Drone Tracking"
 summary: "AI Trainer"
-date:   Spring 2024
+date:   2024-04-01
 preview: /assets/postpreview.png
 ---
 
