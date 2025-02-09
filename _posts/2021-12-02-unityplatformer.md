@@ -3,7 +3,7 @@ layout: post
 title:  "Unity Platformer"
 summary: "Game Deisgner and Engineer"
 date:   2021-12-02
-preview: /assets/postpreview.png
+preview: /assets/unityplatformerpreview.png
 ---
 
 ![Picture 1](/assets/unityplatformer1.png)
