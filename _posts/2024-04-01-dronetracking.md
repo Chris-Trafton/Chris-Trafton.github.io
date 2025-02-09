@@ -3,7 +3,7 @@ layout: post
 title:  "Drone Tracking"
 summary: "AI Trainer"
 date:   2024-03-01
-preview: /assets/postpreview.png
+preview: /assets/dronetrackingpreview.png
 ---
 
 ![Picture 1](/assets/droneproject.png)
