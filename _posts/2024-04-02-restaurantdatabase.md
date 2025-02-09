@@ -3,7 +3,7 @@ layout: post
 title:  "Restaurant Database"
 summary: "Database Engineer"
 date:   2024-04-02
-preview: /assets/postpreview.png
+preview: /assets/restaurantdatabasepreview.png
 ---
 
 ![Picture 1](/assets/restaurantdatabase1.png)
