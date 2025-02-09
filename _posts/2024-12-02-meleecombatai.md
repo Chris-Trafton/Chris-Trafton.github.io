@@ -2,7 +2,7 @@
 layout: post
 title:  "Melee Combat AI"
 summary: "AI Engineer"
-date:   2025-04-02
+date:   2024-12-02
 preview: /assets/postpreview.png
 ---
 
