@@ -3,7 +3,7 @@ layout: post
 title:  "Automated Trash Can"
 summary: "Programmer and Desginer"
 date:   2021-12-01
-preview: /assets/postpreview.png
+preview: /assets/automatedtrashcanpreview.png
 ---
 
 ![Picture 1](/assets/automatedtrashcan1.png)
