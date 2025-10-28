@@ -37,3 +37,7 @@ Features:
 - Developed the combat logic for units to attack another tile with enemies on it, the power of each army is calculated and the winner loses an according amount of units and claims the tile
 
 ![Picture 7](/assets/disputesanddiplomacy_commandmenu.png)
+
+![Picture 8](/assets/disputesanddiplomacy_battlemenu.png)
+
+![Picture 9](/assets/disputesanddiplomacy_claimtilemenu.png)
