@@ -3,7 +3,7 @@ layout: post
 title:  "Action Game AI"
 summary: "AI Engineer"
 date:   2025-09-22
-preview: /assets/postpreview.png
+preview: /assets/actionpreview.png
 ---
 
 - Designed meelee and ranged NPCs to fight the player
