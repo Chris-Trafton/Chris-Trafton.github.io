@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Embeded System to Firestore"
+title:  "Embedded System to Firestore"
 summary: "Software Engineer"
 date:   2024-10-04
 preview: /assets/sensortofirestorepreview.png
