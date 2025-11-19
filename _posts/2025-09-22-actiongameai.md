@@ -18,9 +18,13 @@ Behavior Trees:
 
 - Meelee NPC with strafe around the player and attack in intervals
 
+[Action Game: Melee AI EQS](https://youtu.be/xbf2-WCc4ro)
+
 ![Picture 2](/assets/action_btmelee.png)
 
 - Ranged NPC will find a suitable position and shoot at the player then reposition
+
+[Action Game: Ranged AI EQS](https://youtu.be/dyk5XXeMC_A)
 
 ![Picture 3](/assets/action_btranged.png)
 
@@ -39,6 +43,8 @@ Sub-Trees:
 Tasks & Enviromental Queries:
 
 - Moves the enemy along the patrol route
+
+[Action Game: AI Patrol](https://youtu.be/Jw8IOG2MhtU)
 
 ![Picture 7](/assets/action_bttpatrol.png)
 
@@ -75,6 +81,8 @@ AI Controller:
 - Initializes all enemies and defaults their state to passive
 - Creates the perception for each enemy: sight, sound, & damage
 
+[Action Game: AI Perception](https://youtu.be/UEzTDOF1PDM)
+
 ![Picture 14](/assets/action_aic.png)
 
 
@@ -99,5 +107,7 @@ Blueprint Interfaces & Damage Struct:
 ![Picture 17](/assets/action_bpidamage.png)
 
 - Structure used to store different types of damage and modifiers, like blockable or uninterruptable
+
+[Action Game: Damage System](https://youtu.be/JLm76TPus84)
 
 ![Picture 18](/assets/action_sdamage.png)

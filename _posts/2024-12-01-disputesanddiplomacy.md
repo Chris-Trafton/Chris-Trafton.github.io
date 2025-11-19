@@ -36,6 +36,8 @@ Features:
 - Units can be commanded to move from tile to tile to attack or defend
 - Developed the combat logic for units to attack another tile with enemies on it, the power of each army is calculated and the winner loses an according amount of units and claims the tile
 
+[Disputes and Diplomacy: Attacking Demo](https://youtu.be/0hXKjPyl0zk)
+
 ![Picture 7](/assets/disputesanddiplomacy_commandmenu.png)
 
 ![Picture 8](/assets/disputesanddiplomacy_battlemenu.png)

@@ -8,6 +8,8 @@ preview: /assets/sensortofirestorepreview.png
 
 Developed a general interface to read data from multiple different sensors and store their data in the cloud
 
+[Embedded System to Firestore: Demo](https://youtu.be/kvw5AjtBScM)
+
 - The M5 is connected to multiple sensors to read the current time, temperature, humidity, proximity, ambient light, white light, acceleration in x/y/z directions
 
 ![Picture 1](/assets/sensortofirestore_sensor.png)

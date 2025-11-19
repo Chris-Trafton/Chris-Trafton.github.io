@@ -12,6 +12,6 @@ preview: /assets/dronetrackingpreview.png
 - Trained the model with annotated training data
 - Connected the output stream to a flutter web app
 
-[Drone Tracking: Demo 1](https://youtu.be/IRkGGfNot7w)
-
 [Drone Tracking: Demo 2](https://youtu.be/hSd-nKxML9U)
+
+[Drone Tracking: Demo 1](https://youtu.be/IRkGGfNot7w)
